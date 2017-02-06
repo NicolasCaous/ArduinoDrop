@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1483755614 source:c:\users\caous\desktop\programas de desenvolvimento\programas em c++\rede_neural\mynet.cpp
+	"myNet.h"
+
+1483755958 c:\users\caous\desktop\programas de desenvolvimento\programas em c++\rede_neural\mynet.h
+
+1483904065 source:c:\users\caous\desktop\programas de desenvolvimento\programas em c++\rede_neural\main.cpp
+	"Net.h"
+
+1483894534 c:\users\caous\desktop\programas de desenvolvimento\programas em c++\rede_neural\include\net.h
+	"Neuron.h"
+
+1483893596 source:c:\users\caous\desktop\programas de desenvolvimento\programas em c++\rede_neural\src\net.cpp
+	"Net.h"
+
+1483893463 c:\users\caous\desktop\programas de desenvolvimento\programas em c++\rede_neural\include\neuron.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<time.h>
+	<cassert>
+	<cmath>
+
+1483896285 source:c:\users\caous\desktop\programas de desenvolvimento\programas em c++\rede_neural\src\neuron.cpp
+	"Neuron.h"
+
+1486350594 source:c:\users\caous\desktop\programas_de_desenvolvimento\programas em c++\rede_neural\main.cpp
+	"Net.h"
+
+1483894534 c:\users\caous\desktop\programas_de_desenvolvimento\programas em c++\rede_neural\include\net.h
+	"Neuron.h"
+
+1483893463 c:\users\caous\desktop\programas_de_desenvolvimento\programas em c++\rede_neural\include\neuron.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<time.h>
+	<cassert>
+	<cmath>
+
+1483893596 source:c:\users\caous\desktop\programas_de_desenvolvimento\programas em c++\rede_neural\src\net.cpp
+	"Net.h"
+
+1483896285 source:c:\users\caous\desktop\programas_de_desenvolvimento\programas em c++\rede_neural\src\neuron.cpp
+	"Neuron.h"
+
